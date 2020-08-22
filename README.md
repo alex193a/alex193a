@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
 
-<!--
-**Alex193a/alex193a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alessandro Paluzzi and I'm a mobile developer 📱 
 
-Here are some ideas to get you started:
+I'm from Italy 🇮🇹 living near Rome. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time I like to reverse engineering android applications to discover hidden features 👀   
+You can find my findings on my [Twitter](https://twitter.com/alex193a) profile.
+
+You can reach me also on [LinkedIn](https://www.linkedin.com/in/alex193a/).
+
+![Alex193a's github stats](https://github-readme-stats.vercel.app/api?username=alex193a&count_private=true&show_icons=true&include_all_commits=true)
+
+[![HitCount](http://hits.dwyl.com/alex193a/alex193a/alex193a.svg)](http://hits.dwyl.com/alex193a/alex193a/alex193a)
